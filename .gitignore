@@ -1,0 +1,10 @@
+.classpath
+.project
+.settings
+.springBeans
+.idea
+*.iml
+target
+src/main/resources/server.props
+*launch.sh
+
